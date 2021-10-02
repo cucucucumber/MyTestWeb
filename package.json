@@ -1,0 +1,19 @@
+{
+  "name": "mytestweb",
+  "version": "1.0.0",
+  "description": "this is my testing website~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucucucumber/MyTestWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cucucucumber/MyTestWeb/issues"
+  },
+  "homepage": "https://github.com/cucucucumber/MyTestWeb#readme"
+}
